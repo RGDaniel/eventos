@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'visoco27_daniel';
-$db['default']['password'] = 'daniel0304';
-$db['default']['database'] = 'visoco27_pediatria';
+$db['default']['username'] = 'root';
+$db['default']['password'] = '123';
+$db['default']['database'] = 'eventus_registro';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
