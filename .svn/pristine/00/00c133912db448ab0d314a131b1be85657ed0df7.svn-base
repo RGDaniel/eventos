@@ -1,0 +1,18 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-04-27 03:05:14 --> estoy en _maintain_state actualize el login time 7 a1398567914
+ERROR - 2014-04-27 03:30:33 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\eventus_registro\application\views\administracion\asistencia.php 12
+ERROR - 2014-04-27 03:30:33 --> Severity: Notice  --> Undefined variable: paginas C:\wamp\www\eventus_registro\application\views\administracion\asistencia.php 15
+ERROR - 2014-04-27 03:30:33 --> Severity: Notice  --> Undefined variable: porPagina C:\wamp\www\eventus_registro\application\views\administracion\asistencia.php 16
+ERROR - 2014-04-27 05:49:01 --> estoy en _maintain_state actualize el login time 7 a1398577741
+ERROR - 2014-04-27 08:21:49 --> Severity: Warning  --> mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: MySQL server has gone away C:\wamp\www\eventus_registro\system\database\drivers\mysql\mysql_driver.php 179
+ERROR - 2014-04-27 08:21:49 --> Severity: Warning  --> mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Error reading result set's header C:\wamp\www\eventus_registro\system\database\drivers\mysql\mysql_driver.php 179
+ERROR - 2014-04-27 08:21:49 --> Query error: Query execution was interrupted
+ERROR - 2014-04-27 16:00:13 --> estoy en _maintain_state actualize el login time 7 a1398614413
+ERROR - 2014-04-27 16:10:14 --> Severity: Notice  --> Undefined variable: estatus C:\wamp\www\eventus_registro\application\views\administracion\asistencia.php 25
+ERROR - 2014-04-27 16:10:44 --> Severity: Notice  --> Undefined variable: estatus C:\wamp\www\eventus_registro\application\views\administracion\asistencia.php 25
+ERROR - 2014-04-27 16:11:24 --> Severity: Notice  --> Undefined variable: estatus C:\wamp\www\eventus_registro\application\views\administracion\asistencia.php 25
+ERROR - 2014-04-27 16:11:28 --> Severity: Notice  --> Undefined variable: estatus C:\wamp\www\eventus_registro\application\views\administracion\asistencia.php 25
+ERROR - 2014-04-27 16:11:38 --> Severity: Notice  --> Undefined variable: estatgfbfus C:\wamp\www\eventus_registro\application\views\administracion\asistencia.php 25
+ERROR - 2014-04-27 19:15:15 --> estoy en _maintain_state actualize el login time 7 a1398626115
+ERROR - 2014-04-27 22:56:37 --> estoy en _maintain_state actualize el login time 7 a1398639397

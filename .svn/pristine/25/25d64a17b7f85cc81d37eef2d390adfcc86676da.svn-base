@@ -1,0 +1,8 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-26 01:44:57 --> Severity: Notice  --> Undefined variable: id_part C:\wamp\www\eventus_registro\application\controllers\registro.php 434
+ERROR - 2014-05-26 01:44:58 --> Severity: Notice  --> Undefined property: stdClass::$mensaje_pago C:\wamp\www\eventus_registro\application\controllers\registro.php 452
+ERROR - 2014-05-26 01:44:58 --> Severity: Notice  --> Undefined property: stdClass::$mensaje_pago C:\wamp\www\eventus_registro\application\controllers\registro.php 614
+ERROR - 2014-05-26 02:11:55 --> Severity: Notice  --> Undefined variable: id_part C:\wamp\www\eventus_registro\application\controllers\registro.php 434
+ERROR - 2014-05-26 02:11:55 --> Severity: Notice  --> Undefined property: stdClass::$mensaje_pago C:\wamp\www\eventus_registro\application\controllers\registro.php 452
+ERROR - 2014-05-26 02:11:55 --> Severity: Notice  --> Undefined property: stdClass::$mensaje_pago C:\wamp\www\eventus_registro\application\controllers\registro.php 614

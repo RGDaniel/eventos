@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-24 04:26:06 --> estoy en _maintain_state actualize el login time 7 a1400905566
+ERROR - 2014-05-24 04:29:02 --> Severity: Notice  --> Undefined property: stdClass::$id_conferencia C:\wamp\www\eventus_registro\application\controllers\administracion.php 166
+ERROR - 2014-05-24 05:30:54 --> Severity: Warning  --> Missing argument 1 for Administracion::participante_econfere() C:\wamp\www\eventus_registro\application\controllers\administracion.php 146
+ERROR - 2014-05-24 05:30:54 --> Severity: Notice  --> Undefined variable: id C:\wamp\www\eventus_registro\application\controllers\administracion.php 157
+ERROR - 2014-05-24 05:31:28 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`eventus_registro`.`paticipantes_conferencias`, CONSTRAINT `paticipantes_conferencias_ibfk_2` FOREIGN KEY (`id_participante`) REFERENCES `participantes` (`id_participante`) ON DELETE CASCADE)
+ERROR - 2014-05-24 05:31:45 --> Severity: Warning  --> Missing argument 1 for Administracion::participante_econfere() C:\wamp\www\eventus_registro\application\controllers\administracion.php 146
+ERROR - 2014-05-24 05:31:45 --> Severity: Notice  --> Undefined variable: id C:\wamp\www\eventus_registro\application\controllers\administracion.php 157
+ERROR - 2014-05-24 05:31:56 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`eventus_registro`.`paticipantes_conferencias`, CONSTRAINT `paticipantes_conferencias_ibfk_2` FOREIGN KEY (`id_participante`) REFERENCES `participantes` (`id_participante`) ON DELETE CASCADE)
+ERROR - 2014-05-24 05:32:38 --> Severity: Warning  --> Missing argument 1 for Administracion::participante_econfere() C:\wamp\www\eventus_registro\application\controllers\administracion.php 146
+ERROR - 2014-05-24 05:32:38 --> Severity: Notice  --> Undefined variable: id C:\wamp\www\eventus_registro\application\controllers\administracion.php 157
+ERROR - 2014-05-24 19:23:22 --> estoy en _maintain_state actualize el login time 7 a1400959402
+ERROR - 2014-05-24 19:24:28 --> Severity: Notice  --> Undefined property: stdClass::$apellido_pat C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_gafete.php 110

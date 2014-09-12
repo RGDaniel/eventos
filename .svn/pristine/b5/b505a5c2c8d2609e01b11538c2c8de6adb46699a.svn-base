@@ -1,0 +1,5 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-07-08 03:39:53 --> estoy en _maintain_state actualize el login time 7 a1404790793
+ERROR - 2014-07-08 03:40:14 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\administracion.php 103
+ERROR - 2014-07-08 03:40:14 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 66

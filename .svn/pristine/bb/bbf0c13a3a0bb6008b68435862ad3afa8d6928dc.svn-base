@@ -1,0 +1,3 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-03-28 11:26:28 --> Query error: Unknown column 'especial' in 'where clause'

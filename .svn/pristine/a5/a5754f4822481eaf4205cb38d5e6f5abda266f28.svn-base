@@ -1,0 +1,44 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-06-06 03:32:42 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 482
+ERROR - 2014-06-06 03:32:42 --> Severity: Notice  --> Undefined variable: correo_imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:32:42 --> Severity: Notice  --> Undefined variable: conferencias C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:32:42 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 547
+ERROR - 2014-06-06 03:32:43 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\controllers\registro.php 575
+ERROR - 2014-06-06 03:32:43 --> Severity: Notice  --> Undefined variable: imagen C:\wamp\www\eventus_registro\application\views\registro\satisfactorio_deuda.php 36
+ERROR - 2014-06-06 03:40:44 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 482
+ERROR - 2014-06-06 03:40:44 --> Severity: Notice  --> Undefined variable: correo_imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:40:44 --> Severity: Notice  --> Undefined variable: conferencias C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:40:44 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 547
+ERROR - 2014-06-06 03:40:45 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\controllers\registro.php 575
+ERROR - 2014-06-06 03:40:45 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 482
+ERROR - 2014-06-06 03:40:45 --> Severity: Notice  --> Undefined variable: correo_imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:40:45 --> Severity: Notice  --> Undefined variable: conferencias C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:40:45 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 547
+ERROR - 2014-06-06 03:40:46 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\controllers\registro.php 575
+ERROR - 2014-06-06 03:48:07 --> Severity: Notice  --> Undefined variable: correo_imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:48:07 --> Severity: Notice  --> Undefined variable: conferencias C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:48:07 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 547
+ERROR - 2014-06-06 03:48:08 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\controllers\registro.php 575
+ERROR - 2014-06-06 03:51:17 --> Severity: Notice  --> Undefined variable: correo_imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:51:17 --> Severity: Notice  --> Undefined variable: conferencias C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:51:17 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 547
+ERROR - 2014-06-06 03:51:18 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\controllers\registro.php 575
+ERROR - 2014-06-06 03:58:40 --> Severity: Notice  --> Undefined variable: correo_imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:58:40 --> Severity: Notice  --> Undefined variable: conferencias C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 03:58:40 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 547
+ERROR - 2014-06-06 03:58:41 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\controllers\registro.php 575
+ERROR - 2014-06-06 04:00:50 --> Severity: Notice  --> Undefined variable: correo_imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 04:00:50 --> Severity: Notice  --> Undefined variable: conferencias C:\wamp\www\eventus_registro\application\controllers\registro.php 485
+ERROR - 2014-06-06 04:00:50 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\controllers\registro.php 547
+ERROR - 2014-06-06 04:00:51 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\controllers\registro.php 575
+ERROR - 2014-06-06 04:26:55 --> Severity: Notice  --> Undefined variable: mensaje_pago C:\wamp\www\eventus_registro\application\controllers\registro.php 544
+ERROR - 2014-06-06 04:26:55 --> Severity: Notice  --> Undefined variable: imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 566
+ERROR - 2014-06-06 04:28:25 --> Severity: Notice  --> Undefined variable: imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 566
+ERROR - 2014-06-06 04:42:51 --> Severity: Notice  --> Undefined variable: imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 563
+ERROR - 2014-06-06 04:46:33 --> Severity: Warning  --> chunk_split() expects parameter 1 to be string, array given C:\wamp\www\eventus_registro\application\controllers\registro.php 563
+ERROR - 2014-06-06 04:47:55 --> Severity: Warning  --> chunk_split() expects parameter 1 to be string, array given C:\wamp\www\eventus_registro\application\controllers\registro.php 563
+ERROR - 2014-06-06 04:51:08 --> Severity: Notice  --> Undefined variable: imagen C:\wamp\www\eventus_registro\application\views\registro\satisfactorio_deuda.php 31
+ERROR - 2014-06-06 05:12:09 --> Severity: Notice  --> Undefined variable: correo_imagen C:\wamp\www\eventus_registro\application\controllers\registro.php 498
+ERROR - 2014-06-06 05:32:28 --> Severity: Warning  --> imagecreatefromjpeg(img/correo.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory C:\wamp\www\eventus_registro\application\libraries\Barcode.php 24
+ERROR - 2014-06-06 05:32:28 --> Severity: Warning  --> imagecopy() expects parameter 2 to be resource, boolean given C:\wamp\www\eventus_registro\application\libraries\Barcode.php 24

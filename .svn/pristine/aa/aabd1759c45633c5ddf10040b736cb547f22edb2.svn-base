@@ -1,0 +1,11 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-17 21:12:28 --> Severity: Notice  --> Undefined index: cargo C:\wamp\www\eventus_registro\application\views\registro\paso3.php 89
+ERROR - 2014-05-17 21:19:05 --> Severity: Notice  --> Undefined index: razon_social C:\wamp\www\eventus_registro\application\views\registro\paso3.php 73
+ERROR - 2014-05-17 21:19:05 --> Severity: Notice  --> Undefined index: direccion C:\wamp\www\eventus_registro\application\views\registro\paso3.php 81
+ERROR - 2014-05-17 21:19:05 --> Severity: Notice  --> Undefined index: colonia C:\wamp\www\eventus_registro\application\views\registro\paso3.php 89
+ERROR - 2014-05-17 21:19:05 --> Severity: Notice  --> Undefined index: ciudad C:\wamp\www\eventus_registro\application\views\registro\paso3.php 97
+ERROR - 2014-05-17 21:19:05 --> Severity: Notice  --> Undefined index: estado C:\wamp\www\eventus_registro\application\views\registro\paso3.php 105
+ERROR - 2014-05-17 21:19:05 --> Severity: Notice  --> Undefined index: codigo_postal C:\wamp\www\eventus_registro\application\views\registro\paso3.php 113
+ERROR - 2014-05-17 21:19:05 --> Severity: Notice  --> Undefined index: rfc C:\wamp\www\eventus_registro\application\views\registro\paso3.php 121
+ERROR - 2014-05-17 22:24:30 --> Severity: Notice  --> Undefined variable: selec_estados C:\wamp\www\eventus_registro\application\views\registro\paso3.php 114

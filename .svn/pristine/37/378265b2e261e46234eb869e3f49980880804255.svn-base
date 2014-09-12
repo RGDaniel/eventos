@@ -1,0 +1,16 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-07-22 04:40:29 --> Unable to load the requested class: registro
+ERROR - 2014-07-22 04:44:24 --> estoy en _maintain_state actualize el login time 7 a1406004264
+ERROR - 2014-07-22 04:44:30 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 66
+ERROR - 2014-07-22 04:47:11 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 04:47:37 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 04:48:15 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 04:48:44 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 04:49:25 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 04:49:36 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 04:49:59 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 04:50:24 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 04:50:26 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 05:01:29 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-22 05:02:33 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69

@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-07-19 03:55:51 --> estoy en _maintain_state actualize el login time 7 a1405742151
+ERROR - 2014-07-19 04:40:10 --> Query error: Table 'eventus_registro.nombre_cupones_gpo' doesn't exist
+ERROR - 2014-07-19 04:41:46 --> Query error: Table 'eventus_registro.nombre_cupones_gpo' doesn't exist
+ERROR - 2014-07-19 04:42:27 --> Severity: Notice  --> Undefined property: CI_Input::$input xdebug://debug-eval 1
+ERROR - 2014-07-19 04:42:29 --> Severity: Notice  --> Undefined property: CI_Input::$input xdebug://debug-eval 1
+ERROR - 2014-07-19 04:42:31 --> Severity: Notice  --> Undefined property: CI_Input::$input xdebug://debug-eval 1
+ERROR - 2014-07-19 04:42:32 --> Severity: Notice  --> Undefined property: CI_Input::$input xdebug://debug-eval 1
+ERROR - 2014-07-19 04:42:47 --> Severity: Notice  --> Undefined property: CI_Input::$input xdebug://debug-eval 1
+ERROR - 2014-07-19 04:43:45 --> Query error: Table 'eventus_registro.nombre_cupones_gpo' doesn't exist
+ERROR - 2014-07-19 04:44:12 --> Query error: Table 'eventus_registro.nombre_cupones_gpo' doesn't exist
+ERROR - 2014-07-19 04:44:34 --> Query error: Table 'eventus_registro.nombre_cupones_gpo' doesn't exist
+ERROR - 2014-07-19 04:45:32 --> Query error: Table 'eventus_registro.nombre_cupones_gpo' doesn't exist

@@ -1,0 +1,4 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-02 05:45:27 --> Severity: Notice  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: send of 5 bytes failed with errno=10053 Se ha anulado una conexión establecida por el software en su equipo host..
+ C:\wamp\www\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91

@@ -1,0 +1,8 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-03-16 19:06:14 --> estoy en _maintain_state actualize el login time 7 a1394996774
+ERROR - 2014-03-16 19:07:09 --> 404 Page Not Found --> userrgdsfgdf
+ERROR - 2014-03-16 19:07:15 --> 404 Page Not Found --> ufdbdf%C3%B1df
+ERROR - 2014-03-16 21:43:26 --> Severity: Warning  --> Missing argument 1 for Registro_model::tipo_participantes(), called in C:\wamp\www\eventus_registro\application\controllers\registro.php on line 42 and defined C:\wamp\www\eventus_registro\application\models\Registro_model.php 18
+ERROR - 2014-03-16 21:43:26 --> Query error: Table 'eventus_registro.tipo_partcipantes' doesn't exist
+ERROR - 2014-03-16 21:45:11 --> Query error: Table 'eventus_registro.tipo_partcipantes' doesn't exist

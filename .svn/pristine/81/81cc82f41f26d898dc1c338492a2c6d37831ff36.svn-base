@@ -1,0 +1,11 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-06-09 04:54:23 --> estoy en _maintain_state actualize el login time 7 a1402289663
+ERROR - 2014-06-09 05:41:14 --> Severity: Notice  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: send of 5 bytes failed with errno=10053 Se ha anulado una conexión establecida por el software en su equipo host..
+ C:\wamp\www\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-06-09 05:41:24 --> Severity: Notice  --> mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: send of 5 bytes failed with errno=10053 Se ha anulado una conexión establecida por el software en su equipo host..
+ C:\wamp\www\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-06-09 05:41:24 --> Severity: Notice  --> Undefined variable: insc C:\wamp\www\eventus_registro\application\views\administracion\conferencias.php 47
+ERROR - 2014-06-09 05:41:24 --> Severity: Notice  --> Undefined variable: asis C:\wamp\www\eventus_registro\application\views\administracion\conferencias.php 48
+ERROR - 2014-06-09 05:41:26 --> Severity: Notice  --> Undefined variable: insc C:\wamp\www\eventus_registro\application\views\administracion\conferencias.php 47
+ERROR - 2014-06-09 05:41:26 --> Severity: Notice  --> Undefined variable: asis C:\wamp\www\eventus_registro\application\views\administracion\conferencias.php 48

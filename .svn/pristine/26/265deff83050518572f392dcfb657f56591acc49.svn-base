@@ -1,0 +1,73 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-06-30 00:19:07 --> estoy en _maintain_state actualize el login time 7 a1404087547
+ERROR - 2014-06-30 01:09:57 --> Severity: Warning  --> Missing argument 2 for Administracion::cupones_gpos() C:\wamp\www\eventus_registro\application\controllers\administracion.php 434
+ERROR - 2014-06-30 01:55:50 --> Severity: Warning  --> json_encode() [<a href='function.json-encode'>function.json-encode</a>]: type is unsupported, encoded as null C:\wamp\www\eventus_registro\application\controllers\administracion.php 446
+ERROR - 2014-06-30 01:55:50 --> Severity: Warning  --> json_encode() [<a href='function.json-encode'>function.json-encode</a>]: type is unsupported, encoded as null C:\wamp\www\eventus_registro\application\controllers\administracion.php 446
+ERROR - 2014-06-30 01:57:16 --> Query error: Unknown column 'nombre_cupones_gpo' in 'field list'
+ERROR - 2014-06-30 01:58:53 --> Query error: Unknown column 'nombre_cupones_gpo' in 'field list'
+ERROR - 2014-06-30 02:02:20 --> Query error: Unknown column 'nombre_cupones_gpo' in 'field list'
+ERROR - 2014-06-30 02:04:12 --> Query error: Unknown column 'nombre_cupones_gpo' in 'field list'
+ERROR - 2014-06-30 04:23:45 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:23:45 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:23:45 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:23:45 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:23:45 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:23:45 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:23:45 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:23:45 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:23:48 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:23:48 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:23:48 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:23:48 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:23:48 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:24:01 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:24:01 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:24:01 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:24:01 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:24:01 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:24:01 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:24:01 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:24:01 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: dan C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: dan C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: dan C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 3
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:25:11 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 5
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 8
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Undefined variable: row C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11
+ERROR - 2014-06-30 04:26:47 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\administracion\ajax\cupones_fila.php 11

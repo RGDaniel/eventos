@@ -9,11 +9,13 @@
     <style>
         @page{
            margin: 0 0 0 0;
-           size: 4in 11in;  /* width height */
+           size: 4in 2in;  /* width height */
         }
+
         .contenido {
-            height: 880px;
-            width:  320px;
+            height: 160px;
+            width:  340px;
+			/*border: solid 1px;*/
         }
         .fila {
             height: auto;
@@ -36,13 +38,13 @@
             filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
         }
         .espacio1{
-            height:  220px;
+            height:  0px;
         }
         .espacio2{
             height:  5px;
         }
         .espacio3{
-            height:  275px;
+            height:  0px;
         }
         .nombre
         {
@@ -51,11 +53,11 @@
             color:#000000;
             letter-spacing:0pt;
             word-spacing:0pt;
-            font-size:26px;
+            font-size:36px;
             text-align:center;
             font-family:helvetica, sans-serif;
             line-height:1;
-            margin: 1px 0 0 0;
+            margin: 5px 0 0 0;
         }
         .apellidos
         {
@@ -64,27 +66,60 @@
             color:#000000;
             letter-spacing:0pt;
             word-spacing:0pt;
-            font-size:18px;
+            font-size:20px;
             text-align:center;
             font-family:helvetica, sans-serif;
             line-height:1;
-            margin: 0;
+            margin: 5px 0 5px 0;
         }
-        .codigo
+		.empresa
         {
             text-shadow:1px 1px 1px rgba(115,115,115,1);
             font-weight:bold;
             color:#000000;
             letter-spacing:0pt;
             word-spacing:0pt;
-            font-size:10px;
+            font-size:23px;
             text-align:center;
             font-family:helvetica, sans-serif;
             line-height:1;
-            margin-top: -35px;
-            margin-right: 0;
-            margin-left: 0;
-            margin-bottom: 0;         }
+            margin: 20px 0 0 0;
+        }
+		.contenedor1{
+			margin: 20px 0 0 0;
+		}
+		.table
+        {
+            text-shadow:1px 1px 1px rgba(115,115,115,1);
+            font-weight:bold;
+            color:#000000;
+            letter-spacing:0pt;
+            word-spacing:0pt;
+            font-size:15px;
+            text-align: right;
+            font-family:helvetica, sans-serif;
+            line-height:1;
+            margin: 0;
+			right: 15px;
+			position: absolute;
+
+        }
+        .codigo
+        {
+            /*text-shadow:1px 1px 1px rgba(115,115,115,1);*/
+            font-weight:bold;
+            color:#000000;
+            letter-spacing:0pt;
+            word-spacing:0pt;
+            font-size:12px;
+            text-align:center;
+            font-family:helvetica, sans-serif;
+            line-height:1;
+            margin-top: 0px;
+            margin-right: auto;
+            margin-left: 5px;
+            margin-bottom: 0;
+		}
         .parrafos
         {
             font-weight:normal;
@@ -107,9 +142,16 @@
         <div class="espacio1"></div>
         <div class="fila titulos">
                 <p class="nombre"><?php echo $datos->row()->nombre ?></p>
-                <p class="apellidos"><?php echo $datos->row()->apellido_pa; ?></p>
-        </div>
+                <p class="apellidos"><?php echo trim($datos->row()->apellido_pat.' '.$datos->row()->apellido_mat); ?></p>
+				<p class="empresa"><?php echo $datos->row()->empresa ?></p>
+				<div class="contenedor1">
+					<span class="codigo"><?php echo $id_code; ?>
+					</span> <span class="table"><?php echo 'Table: '.$datos->row()->direccion ?></span>
+				</div>
+ 				
+		</div>
         <div class="espacio2"></div>
+		<?php /*
         <div class="fila centro">
 
             <img class="" src="data:image/jpg;base64,<?php echo $codigo ?>"/>
@@ -117,7 +159,8 @@
 
         </div>
         <div class="espacio3"></div>
-        <?php if ($multi) : ?>
+		*/ ?>
+        <?php /* if ($multi) : ?>
         <div class="fila rotar">
         <?php if ($conferencias->num_rows() > 0) : ?>
             <?php foreach ($conferencias->result() as $row) : ?>
@@ -125,7 +168,7 @@
             <?php endforeach; ?>
         <?php endif; ?>
         </div>
-        <?php endif; ?>
+        <?php endif; */?>
     </div>
 </body>
 </html>

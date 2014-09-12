@@ -1,0 +1,81 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-07-28 15:45:02 --> estoy en _maintain_state actualize el login time 7 a1406562302
+ERROR - 2014-07-28 15:47:16 --> Severity: Notice  --> Undefined property: Administracion::$Resgitro_library C:\wamp\www\eventus_registro\application\controllers\administracion.php 147
+ERROR - 2014-07-28 15:57:36 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 68
+ERROR - 2014-07-28 16:26:42 --> Severity: Notice  --> Undefined variable: subject C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 57
+ERROR - 2014-07-28 16:26:42 --> Severity: Notice  --> Undefined variable: headers C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 57
+ERROR - 2014-07-28 16:29:15 --> Severity: Notice  --> Undefined variable: headers C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 58
+ERROR - 2014-07-28 16:30:57 --> Severity: Notice  --> Undefined variable: headers C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 58
+ERROR - 2014-07-28 16:47:46 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 73
+ERROR - 2014-07-28 16:48:38 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 73
+ERROR - 2014-07-28 16:49:24 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 73
+ERROR - 2014-07-28 16:50:28 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 73
+ERROR - 2014-07-28 16:50:57 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 73
+ERROR - 2014-07-28 17:13:05 --> Severity: Warning  --> Missing argument 4 for Resgitro_library::enviar_registro(), called in C:\wamp\www\eventus_registro\application\controllers\administracion.php on line 169 and defined C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 19
+ERROR - 2014-07-28 17:13:05 --> Severity: Warning  --> Missing argument 5 for Resgitro_library::enviar_registro(), called in C:\wamp\www\eventus_registro\application\controllers\administracion.php on line 169 and defined C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 19
+ERROR - 2014-07-28 17:13:05 --> Severity: Warning  --> Missing argument 6 for Resgitro_library::enviar_registro(), called in C:\wamp\www\eventus_registro\application\controllers\administracion.php on line 169 and defined C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 19
+ERROR - 2014-07-28 17:13:05 --> Severity: Notice  --> Undefined variable: precio_cero C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 23
+ERROR - 2014-07-28 17:13:05 --> Severity: Notice  --> Undefined variable: mensaje_correo C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 32
+ERROR - 2014-07-28 17:13:06 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 85
+ERROR - 2014-07-28 17:13:42 --> Severity: Warning  --> Missing argument 4 for Resgitro_library::enviar_registro(), called in C:\wamp\www\eventus_registro\application\controllers\administracion.php on line 169 and defined C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 19
+ERROR - 2014-07-28 17:13:42 --> Severity: Warning  --> Missing argument 5 for Resgitro_library::enviar_registro(), called in C:\wamp\www\eventus_registro\application\controllers\administracion.php on line 169 and defined C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 19
+ERROR - 2014-07-28 17:13:42 --> Severity: Warning  --> Missing argument 6 for Resgitro_library::enviar_registro(), called in C:\wamp\www\eventus_registro\application\controllers\administracion.php on line 169 and defined C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 19
+ERROR - 2014-07-28 17:13:42 --> Severity: Notice  --> Undefined variable: precio_cero C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 23
+ERROR - 2014-07-28 17:13:42 --> Severity: Notice  --> Undefined variable: mensaje_correo C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 32
+ERROR - 2014-07-28 18:22:46 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 84
+ERROR - 2014-07-28 18:23:12 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\libraries\Resgitro_library.php 84
+ERROR - 2014-07-28 19:53:08 --> Severity: Notice  --> Undefined variable: contar C:\wamp\www\eventus_registro\application\views\administracion\cupon.php 52
+ERROR - 2014-07-28 21:39:57 --> Severity: Notice  --> Undefined variable: id C:\wamp\www\eventus_registro\application\controllers\administracion.php 554
+ERROR - 2014-07-28 22:08:04 --> Severity: Warning  --> array_keys() expects parameter 1 to be array, boolean given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1113
+ERROR - 2014-07-28 22:08:04 --> Severity: Warning  --> sort() expects parameter 1 to be array, null given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1114
+ERROR - 2014-07-28 22:08:04 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1144
+ERROR - 2014-07-28 22:23:19 --> Severity: Notice  --> Undefined variable: tipo xdebug://debug-eval 1
+ERROR - 2014-07-28 22:23:42 --> Severity: Notice  --> Undefined variable: tipo xdebug://debug-eval 1
+ERROR - 2014-07-28 22:28:45 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`eventus_registro`.`cupones`, CONSTRAINT `cupones_ibfk_1` FOREIGN KEY (`id_cupones_gpo`) REFERENCES `cupones_gpo` (`id_cupones_gpo`) ON DELETE CASCADE)
+ERROR - 2014-07-28 22:29:27 --> Severity: Notice  --> Undefined variable: precio xdebug://debug-eval 1
+ERROR - 2014-07-28 22:29:27 --> Severity: Notice  --> Undefined variable: repeticiones xdebug://debug-eval 1
+ERROR - 2014-07-28 22:29:40 --> Severity: Notice  --> Undefined variable: tipo xdebug://debug-eval 1
+ERROR - 2014-07-28 22:29:40 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`eventus_registro`.`cupones`, CONSTRAINT `cupones_ibfk_1` FOREIGN KEY (`id_cupones_gpo`) REFERENCES `cupones_gpo` (`id_cupones_gpo`) ON DELETE CASCADE)
+ERROR - 2014-07-28 22:30:52 --> Severity: Notice  --> Undefined variable: precio xdebug://debug-eval 1
+ERROR - 2014-07-28 22:30:52 --> Severity: Notice  --> Undefined variable: repeticiones xdebug://debug-eval 1
+ERROR - 2014-07-28 22:30:57 --> Severity: Warning  --> array_keys() expects parameter 1 to be array, boolean given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1113
+ERROR - 2014-07-28 22:30:57 --> Severity: Warning  --> sort() expects parameter 1 to be array, null given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1114
+ERROR - 2014-07-28 22:30:57 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1144
+ERROR - 2014-07-28 22:32:55 --> Severity: Notice  --> Undefined variable: precio xdebug://debug-eval 1
+ERROR - 2014-07-28 22:32:55 --> Severity: Notice  --> Undefined variable: repeticiones xdebug://debug-eval 1
+ERROR - 2014-07-28 22:32:58 --> Severity: Warning  --> array_keys() expects parameter 1 to be array, boolean given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1113
+ERROR - 2014-07-28 22:32:58 --> Severity: Warning  --> sort() expects parameter 1 to be array, null given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1114
+ERROR - 2014-07-28 22:32:58 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1144
+ERROR - 2014-07-28 22:33:22 --> Severity: Notice  --> Undefined variable: precio xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:22 --> Severity: Notice  --> Undefined variable: repeticiones xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:31 --> Severity: Notice  --> Undefined variable: precio xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:33 --> Severity: Notice  --> Undefined property: CI_Input::$input xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:33 --> Severity: Notice  --> Undefined variable: codigo xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:33 --> Severity: Notice  --> Undefined variable: numero xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:33 --> Severity: Notice  --> Undefined variable: tipo xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:33 --> Severity: Notice  --> Undefined variable: precio xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:33 --> Severity: Notice  --> Undefined variable: repeticiones xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:36 --> Severity: Notice  --> Undefined variable: tipo xdebug://debug-eval 1
+ERROR - 2014-07-28 22:33:55 --> Severity: Warning  --> array_keys() expects parameter 1 to be array, boolean given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1113
+ERROR - 2014-07-28 22:33:55 --> Severity: Warning  --> sort() expects parameter 1 to be array, null given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1114
+ERROR - 2014-07-28 22:33:55 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1144
+ERROR - 2014-07-28 22:34:26 --> Severity: Warning  --> array_keys() expects parameter 1 to be array, boolean given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1113
+ERROR - 2014-07-28 22:34:26 --> Severity: Warning  --> sort() expects parameter 1 to be array, null given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1114
+ERROR - 2014-07-28 22:34:26 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1144
+ERROR - 2014-07-28 22:34:42 --> Severity: Notice  --> Undefined variable: cupongpo C:\wamp\www\eventus_registro\application\controllers\administracion.php 578
+ERROR - 2014-07-28 22:35:22 --> Severity: Notice  --> Undefined variable: precio xdebug://debug-eval 1
+ERROR - 2014-07-28 22:35:22 --> Severity: Notice  --> Undefined variable: repeticiones xdebug://debug-eval 1
+ERROR - 2014-07-28 22:35:29 --> Severity: Notice  --> Undefined variable: tipo xdebug://debug-eval 1
+ERROR - 2014-07-28 22:36:15 --> Severity: Notice  --> Undefined variable: precio xdebug://debug-eval 1
+ERROR - 2014-07-28 22:36:15 --> Severity: Notice  --> Undefined variable: repeticiones xdebug://debug-eval 1
+ERROR - 2014-07-28 22:36:18 --> Severity: Notice  --> Undefined variable: tipo xdebug://debug-eval 1
+ERROR - 2014-07-28 22:43:28 --> Severity: Warning  --> array_keys() expects parameter 1 to be array, boolean given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1113
+ERROR - 2014-07-28 22:43:28 --> Severity: Warning  --> sort() expects parameter 1 to be array, null given C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1114
+ERROR - 2014-07-28 22:43:28 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\system\database\DB_active_rec.php 1144
+ERROR - 2014-07-28 19:39:24 --> estoy en _maintain_state actualize el login time 7 a1406590764
+ERROR - 2014-07-28 20:44:48 --> estoy en _maintain_state actualize el login time 7 a1406594688
+ERROR - 2014-07-28 21:53:11 --> Severity: Warning  --> array_keys() expects parameter 1 to be array, boolean given /home/visoco27/public_html/registro/system/database/DB_active_rec.php 1113
+ERROR - 2014-07-28 21:53:11 --> Severity: Warning  --> sort() expects parameter 1 to be array, null given /home/visoco27/public_html/registro/system/database/DB_active_rec.php 1114
+ERROR - 2014-07-28 21:53:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /home/visoco27/public_html/registro/system/database/DB_active_rec.php 1144
+ERROR - 2014-07-28 21:53:11 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/visoco27/public_html/registro/system/core/Exceptions.php:185) /home/visoco27/public_html/registro/system/core/Common.php 442

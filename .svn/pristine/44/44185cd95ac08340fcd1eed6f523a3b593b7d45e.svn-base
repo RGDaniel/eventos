@@ -1,0 +1,16 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-01-28 00:49:09 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\ci_policia\application\views\user\manage_users.php 8
+ERROR - 2014-01-28 00:49:09 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\ci_policia\application\views\user\manage_users.php 10
+ERROR - 2014-01-28 00:49:09 --> Severity: Notice  --> Undefined variable: paginas C:\wamp\www\ci_policia\application\views\user\manage_users.php 13
+ERROR - 2014-01-28 00:49:09 --> Severity: Notice  --> Undefined variable: porPagina C:\wamp\www\ci_policia\application\views\user\manage_users.php 14
+ERROR - 2014-01-28 21:33:59 --> estoy en _maintain_state actualize el login time 7 a1390944839
+ERROR - 2014-01-28 21:34:04 --> Severity: Notice  --> Undefined property: User::$user_model C:\wamp\www\ci_policia\application\controllers\user.php 102
+ERROR - 2014-01-28 21:34:44 --> Severity: Notice  --> Object of class stdClass could not be converted to int C:\wamp\www\ci_policia\application\controllers\user.php 104
+ERROR - 2014-01-28 21:35:06 --> Severity: Notice  --> Object of class stdClass could not be converted to int C:\wamp\www\ci_policia\application\controllers\user.php 107
+ERROR - 2014-01-28 21:39:15 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\ci_policia\application\views\user\manage_users.php 10
+ERROR - 2014-01-28 21:39:45 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\ci_policia\application\views\user\manage_users.php 10
+ERROR - 2014-01-28 21:40:47 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\ci_policia\application\views\user\manage_users.php 10
+ERROR - 2014-01-28 21:41:25 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\ci_policia\application\views\user\manage_users.php 10
+ERROR - 2014-01-28 21:42:27 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\ci_policia\application\views\user\manage_users.php 10
+ERROR - 2014-01-28 21:43:08 --> Severity: Notice  --> Undefined variable: buscar C:\wamp\www\ci_policia\application\views\user\manage_users.php 10

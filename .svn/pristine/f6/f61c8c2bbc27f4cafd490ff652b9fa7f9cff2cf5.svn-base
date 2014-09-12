@@ -1,0 +1,9 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-04-10 23:36:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-04-10 23:36:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-04-10 23:36:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-04-10 23:36:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-04-10 23:36:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-04-10 23:37:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-04-10 23:37:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91

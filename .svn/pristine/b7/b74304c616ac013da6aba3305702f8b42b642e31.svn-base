@@ -1,0 +1,6 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-11-21 02:51:11 --> estoy en _maintain_state actualize el login time 7 a1385002271
+ERROR - 2013-11-21 02:57:42 --> 404 Page Not Found --> manage
+ERROR - 2013-11-21 03:06:50 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\ci_policia\application\views\template\head.php 11
+ERROR - 2013-11-21 03:06:50 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\ci_policia\application\views\template\head.php 19

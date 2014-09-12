@@ -1,0 +1,58 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-13 03:23:24 --> Severity: Notice  --> Undefined index: datos_paso2a C:\wamp\www\eventus_registro\application\controllers\registro.php 266
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:23:24 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Notice  --> Undefined variable: valores C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:27:28 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given C:\wamp\www\eventus_registro\application\views\registro\paso2a.php 54
+ERROR - 2014-05-13 03:30:00 --> Severity: Notice  --> Undefined index: datos_paso2a C:\wamp\www\eventus_registro\application\controllers\registro.php 266

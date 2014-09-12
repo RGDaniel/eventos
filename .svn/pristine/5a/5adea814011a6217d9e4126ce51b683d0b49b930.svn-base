@@ -1,0 +1,5 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2013-11-27 21:45:04 --> 404 Page Not Found --> login
+ERROR - 2013-11-27 21:46:09 --> estoy en _maintain_state actualize el login time 7 a1385588769
+ERROR - 2013-11-27 21:46:52 --> 404 Page Not Found --> manage

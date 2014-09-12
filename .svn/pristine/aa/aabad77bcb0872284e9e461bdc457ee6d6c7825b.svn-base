@@ -1,0 +1,56 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-21 03:50:43 --> estoy en _maintain_state actualize el login time 7 a1400644243
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 23
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 23
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 23
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 35
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 35
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 35
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 51
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 51
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 51
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 63
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 63
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 63
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 75
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 75
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 75
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 92
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 92
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 92
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 104
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 104
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 104
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 116
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 116
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 116
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 128
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 128
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 128
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 145
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 145
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 145
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 162
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 162
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 162
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 174
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 174
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 174
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 186
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 186
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 186
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 202
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 202
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 202
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 214
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 214
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 214
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 226
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 226
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 226
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: campos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 238
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 238
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\eventus_registro\application\views\registro\paso2.php 238
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: precio C:\wamp\www\eventus_registro\application\views\registro\paso2.php 267
+ERROR - 2014-05-21 03:50:52 --> Severity: Notice  --> Undefined variable: js_datos C:\wamp\www\eventus_registro\application\views\registro\paso2.php 277

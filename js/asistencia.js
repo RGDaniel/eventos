@@ -12,8 +12,8 @@ $(document).ready(function(){
         event.preventDefault();
         var $yo = $(this);
         var url = $yo.attr('href');
-        window.open(url, "", "height=900,width=340");
-        asistencia($yo);
+        window.open(url, "", "height=190,width=360");
+        //asistencia($yo);
     });
 
     $(document).on('click', 'a.asistencia', function(event){

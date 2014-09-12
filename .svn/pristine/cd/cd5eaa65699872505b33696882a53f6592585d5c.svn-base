@@ -1,0 +1,11 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-01-29 01:05:10 --> estoy en _maintain_state actualize el login time 7 a1390957510
+ERROR - 2014-01-29 03:10:00 --> Severity: Notice  --> Undefined property: User::$securuty C:\wamp\www\ci_policia\application\controllers\user.php 108
+ERROR - 2014-01-29 03:11:18 --> Severity: Notice  --> Undefined property: User::$securuty C:\wamp\www\ci_policia\application\controllers\user.php 108
+ERROR - 2014-01-29 03:48:57 --> Severity: Notice  --> Undefined property: User::$securuty C:\wamp\www\ci_policia\application\controllers\user.php 108
+ERROR - 2014-01-29 06:20:13 --> Severity: Notice  --> Undefined property: User::$user_model C:\wamp\www\ci_policia\application\controllers\user.php 150
+ERROR - 2014-01-29 06:57:47 --> Severity: Notice  --> Undefined property: User::$user_model C:\wamp\www\ci_policia\application\controllers\user.php 150
+ERROR - 2014-01-29 07:01:14 --> Severity: Notice  --> Undefined property: stdClass::$id_comensal C:\wamp\www\ci_policia\application\views\user\ajax\user_table.php 53
+ERROR - 2014-01-29 07:01:14 --> Severity: Notice  --> Undefined property: stdClass::$id_comensal C:\wamp\www\ci_policia\application\views\user\ajax\user_table.php 54
+ERROR - 2014-01-29 07:01:14 --> Severity: Notice  --> Undefined property: stdClass::$id_comensal C:\wamp\www\ci_policia\application\views\user\ajax\user_table.php 55

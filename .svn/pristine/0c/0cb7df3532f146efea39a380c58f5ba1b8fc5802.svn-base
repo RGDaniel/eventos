@@ -1,0 +1,4 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-08-25 21:30:11 --> Severity: Notice  --> Undefined variable: js_datos /home/visoco27/public_html/registro/application/views/registro/pago_terceros.php 30
+ERROR - 2014-08-25 21:42:05 --> estoy en _maintain_state actualize el login time 7 a1409017325

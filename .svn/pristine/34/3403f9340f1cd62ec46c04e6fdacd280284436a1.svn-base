@@ -1,0 +1,14 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-04-04 14:50:19 --> Severity: Notice  --> Undefined index: paso3 /home/visoco27/public_html/registro/application/controllers/registro.php 447
+ERROR - 2014-04-04 14:50:19 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/visoco27/public_html/registro/system/core/Exceptions.php:185) /home/visoco27/public_html/registro/system/helpers/url_helper.php 542
+ERROR - 2014-04-04 14:50:24 --> Severity: Notice  --> Undefined index: paso2a /home/visoco27/public_html/registro/application/controllers/registro.php 447
+ERROR - 2014-04-04 14:50:24 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /home/visoco27/public_html/registro/system/core/Exceptions.php:185) /home/visoco27/public_html/registro/system/helpers/url_helper.php 542
+ERROR - 2014-04-04 19:04:24 --> Severity: Notice  --> Undefined index: cargo /home/visoco27/public_html/registro/application/views/registro/paso2.php 69
+ERROR - 2014-04-04 19:04:24 --> Severity: Notice  --> Undefined index: cargo /home/visoco27/public_html/registro/application/views/registro/paso2.php 69
+ERROR - 2014-04-04 19:04:24 --> Severity: Notice  --> Undefined index: cargo /home/visoco27/public_html/registro/application/views/registro/paso2.php 69
+ERROR - 2014-04-04 19:04:24 --> Severity: Notice  --> Undefined index: cargo /home/visoco27/public_html/registro/application/views/registro/paso2.php 69
+ERROR - 2014-04-04 19:04:24 --> Severity: Notice  --> Undefined index: cargo /home/visoco27/public_html/registro/application/views/registro/paso2.php 69
+ERROR - 2014-04-04 19:04:24 --> Severity: Notice  --> Undefined index: cargo /home/visoco27/public_html/registro/application/views/registro/paso2.php 69
+ERROR - 2014-04-04 19:04:24 --> Severity: Notice  --> Undefined index: cargo /home/visoco27/public_html/registro/application/views/registro/paso2.php 69
+ERROR - 2014-04-04 19:04:24 --> Severity: Notice  --> Undefined index: cargo /home/visoco27/public_html/registro/application/views/registro/paso2.php 69

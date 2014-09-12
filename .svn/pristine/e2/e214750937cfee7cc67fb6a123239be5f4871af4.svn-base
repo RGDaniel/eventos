@@ -1,0 +1,11 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-07-25 19:59:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-07-25 19:59:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-07-25 19:59:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-07-25 19:59:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-07-25 19:59:49 --> estoy en _maintain_state actualize el login time 7 a1406311189
+ERROR - 2014-07-25 19:59:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-07-25 20:00:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-07-25 20:00:19 --> Severity: Notice  --> Undefined variable: js_datos C:\xampp\htdocs\eventus_registro\application\views\administracion\ajax\participante_sistema.php 69
+ERROR - 2014-07-25 21:14:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\eventus_registro\system\database\drivers\mysql\mysql_driver.php 91

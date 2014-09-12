@@ -1,0 +1,10 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-01-27 06:01:11 --> Severity: Notice  --> Undefined property: Start::$passwordhash C:\wamp\www\ci_policia\application\libraries\Police.php 601
+ERROR - 2014-01-27 21:48:09 --> Severity: 4096  --> Object of class Start could not be converted to string C:\wamp\www\ci_policia\application\libraries\Police.php 348
+ERROR - 2014-01-27 22:48:22 --> estoy en _maintain_state actualize el login time 7 a1390862902
+ERROR - 2014-01-27 22:48:37 --> 404 Page Not Found --> manage
+ERROR - 2014-01-27 23:38:12 --> estoy en _maintain_state actualize el login time 7 a1390865892
+ERROR - 2014-01-27 23:38:19 --> 404 Page Not Found --> login
+ERROR - 2014-01-27 23:40:09 --> 404 Page Not Found --> login
+ERROR - 2014-01-27 23:40:53 --> estoy en _maintain_state actualize el login time 7 a1390866053

@@ -1,0 +1,4 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-06-08 17:18:20 --> Severity: Warning  --> mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp\www\eventus_registro\application\controllers\registro.php 568
+ERROR - 2014-06-08 18:06:33 --> estoy en _maintain_state actualize el login time 7 a1402250793

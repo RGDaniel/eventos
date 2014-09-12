@@ -1,0 +1,79 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-01 19:54:46 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\views\registro\paso2.php 22
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: 4096  --> Object of class stdClass could not be converted to string C:\wamp\www\eventus_registro\application\controllers\registro.php 470
+ERROR - 2014-05-01 20:06:05 --> Severity: Notice  --> Object of class stdClass to string conversion C:\wamp\www\eventus_registro\application\controllers\registro.php 470

@@ -1,0 +1,56 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-09 04:35:50 --> Severity: Notice  --> Undefined variable: arr C:\wamp\www\eventus_registro\application\controllers\registro.php 223
+ERROR - 2014-05-09 05:32:26 --> Severity: Notice  --> Undefined offset: 0 C:\wamp\www\eventus_registro\application\controllers\registro.php 593
+ERROR - 2014-05-09 05:44:16 --> Severity: Notice  --> Undefined index: paso3 C:\wamp\www\eventus_registro\application\controllers\registro.php 592
+ERROR - 2014-05-09 05:44:29 --> Severity: Notice  --> Undefined index: paso1 C:\wamp\www\eventus_registro\application\controllers\registro.php 592
+ERROR - 2014-05-09 05:52:05 --> Severity: Notice  --> Undefined offset: -1 C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 05:52:05 --> Severity: Notice  --> Undefined index:  C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 05:56:49 --> Query error: Unknown column 'reconocimiento' in 'field list'
+ERROR - 2014-05-09 06:00:57 --> Severity: Notice  --> Undefined offset: -1 C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 06:00:57 --> Severity: Notice  --> Undefined index:  C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 06:01:31 --> Severity: Notice  --> Undefined offset: -1 C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 06:01:31 --> Severity: Notice  --> Undefined index:  C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 06:05:39 --> Severity: Notice  --> Undefined offset: -1 C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 06:05:39 --> Severity: Notice  --> Undefined index:  C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 06:09:11 --> Severity: Notice  --> Undefined offset: -1 C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 06:09:11 --> Severity: Notice  --> Undefined index:  C:\wamp\www\eventus_registro\application\controllers\registro.php 588
+ERROR - 2014-05-09 06:18:50 --> Severity: Notice  --> Undefined variable: a C:\wamp\www\eventus_registro\application\controllers\registro.php 216
+ERROR - 2014-05-09 23:53:42 --> Severity: Notice  --> Undefined index: datos_paso2a C:\wamp\www\eventus_registro\application\controllers\registro.php 324
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:53:42 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Notice  --> Undefined index: datos_paso2a C:\wamp\www\eventus_registro\application\controllers\registro.php 324
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199
+ERROR - 2014-05-09 23:54:51 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\eventus_registro\application\views\registro\paso4.php 199

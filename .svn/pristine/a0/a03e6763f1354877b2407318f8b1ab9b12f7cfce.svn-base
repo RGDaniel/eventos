@@ -1,0 +1,8 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-05-28 03:07:16 --> Severity: Notice  --> Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' C:\wamp\www\eventus_registro\application\controllers\registro.php 81
+ERROR - 2014-05-28 03:07:30 --> Severity: Notice  --> Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' C:\wamp\www\eventus_registro\application\controllers\registro.php 81
+ERROR - 2014-05-28 03:07:31 --> Severity: Notice  --> Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' C:\wamp\www\eventus_registro\application\controllers\registro.php 81
+ERROR - 2014-05-28 03:07:38 --> Severity: Notice  --> Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' C:\wamp\www\eventus_registro\application\controllers\registro.php 81
+ERROR - 2014-05-28 03:08:09 --> Severity: Notice  --> Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' C:\wamp\www\eventus_registro\application\controllers\registro.php 81
+ERROR - 2014-05-28 04:47:42 --> Severity: Notice  --> Undefined index: id_anfitrion C:\wamp\www\eventus_registro\application\controllers\registro.php 396
